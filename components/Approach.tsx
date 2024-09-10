@@ -12,7 +12,7 @@ const Approach= ()=> {
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card title="Always Ready to Learn" icon={<AceternityIcon order="Reason 1"/>}
-        description="I am a Computer Science and am always ready to tackle new challenges and the most important part is i love working on tech and porjects."
+        description="I am a Computer Science student and am always ready to tackle new challenges and the most important part is i love working on tech and porjects."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
